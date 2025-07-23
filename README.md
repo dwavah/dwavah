@@ -1,12 +1,15 @@
 
-# Hi, I'm Daniel 👋
+# Hi, I'm Daniel 👋🏽
 
 🎓 I'm a Computer Science graduate, passionate about building software that solves real-world problems.
 
-🌍 Based in Uganda, I'm actively exploring opportunities in:
-🔹 Software Development (Front-end, Back-end, or Full-stack)
-🔹 AI & Data-driven Applications
-🔹 Open Source Collaboration
+🌍 Based in Uganda, I'm actively exploring opportunities in: <br>
+
+🔹 Software Development (Front-end, Back-end, or Full-stack) <br>
+
+🔹 AI & Data-driven Applications <br>
+
+🔹 Open Source Collaboration 
 
 ## 🚀 Tech Stack
 
@@ -67,10 +70,10 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![TinkerCAD](https://img.shields.io/badge/-Tinkercad-FF4500?style=for-the-badge&logo=tinkercad&logoColor=white)
 
-
+---
 ## 🗣️ Let's Connect
 
-- 📧 Email: danl.wavah@gmail.com
+📧 Email: danl.wavah@gmail.com
 
 ---
 
